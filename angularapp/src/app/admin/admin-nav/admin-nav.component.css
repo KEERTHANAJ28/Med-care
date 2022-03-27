@@ -1,0 +1,17 @@
+*{
+    text-decoration: none;
+    font-family: Verdana;
+
+}
+a{
+    color: white;
+}
+#adminNavBar{
+    background-color: rgb(255,0,98);
+    display:flex;
+    font-size: large;
+    color: white;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
