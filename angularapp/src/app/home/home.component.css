@@ -1,0 +1,45 @@
+.navbar {
+    background-color: rgb(255, 0, 98);
+    ;
+}
+
+.wel {
+    background-color: rgb(173, 171, 171);
+    width: 1535px;
+    height: 360px;
+}
+
+.welcome {
+    font-size: 80px;
+    color: rgb(0, 0, 0);
+    font-weight: 1000px;
+    text-align: center;
+}
+
+.nav-link {
+    color: white;
+}
+
+.container1 {
+    height: 170px;
+    width: 170px;
+    border-radius: 20px;
+    margin-left: 75px;
+    margin-top: 30px;
+}
+
+.tabimg {
+    height: 170px;
+    width: 170px;
+    border-radius: 20px;
+    margin-left: -8px;
+    margin-top: -2px;
+}
+
+.container-fluid {
+    background-color: rgb(255, 0, 98);
+}
+
+.navbar-brand {
+    color: black;
+}
