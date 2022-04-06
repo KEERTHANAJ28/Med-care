@@ -1,0 +1,40 @@
+*{
+    text-decoration: none;
+    font-family: Verdana;
+}
+a{
+    color: white;
+}
+#adminNavBar{
+    background-color: rgb(255,0,98);
+    display:flex;
+    font-size: large;
+    color: white;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+th{
+    border-bottom: none;
+    color: white;
+    font-size: large;
+    background-color: rgb(255,0,98);
+}
+
+table{
+   border-collapse: collapse;
+    text-align: left;
+    width: 80%;
+    font-style: normal;
+    margin-left:10%;
+    margin-right: 10%;
+    font-size: small;
+    line-height: 40px;
+    color: black;
+    padding: 20px;
+    
+}
+tr{
+    background-color: white;
+    border-bottom: 0.5px solid black;
+}
